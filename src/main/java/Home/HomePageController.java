@@ -1,4 +1,4 @@
-package Controllers;
+package Home;
 
 public class HomePageController {
 }
